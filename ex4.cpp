@@ -15,6 +15,6 @@ int main() {
     update(pa, pb);
     printf("%d\n%d", a, b);
 
-
+    
     return 0;
 }
